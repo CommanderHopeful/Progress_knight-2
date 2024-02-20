@@ -182,9 +182,9 @@ const jobBaseData = {
 }
 
 const skillBaseData = {
-    "Concentration": { name: "Concentration", maxXp: 100, heroxp: 36, effect: 0.5, description: "Skill XP" },
-    "Productivity": { name: "Productivity", maxXp: 100, heroxp: 37, effect: 0.5, description: "Hero XP" },
-    "Bargaining": { name: "Bargaining", maxXp: 100, heroxp: 38, effect: -0.1, description: "Reduced Expenses" },
+    "Concentration": { name: "Concentration", maxXp: 100, heroxp: 36, effect: 0.2, description: "Skill XP" },
+    "Productivity": { name: "Productivity", maxXp: 100, heroxp: 37, effect: 0.2, description: "Hero XP" },
+    "Bargaining": { name: "Bargaining", maxXp: 100, heroxp: 38, effect: -0.02, description: "Reduced Expenses" },
     "Meditation": { name: "Meditation", maxXp: 100, heroxp: 39, effect: 0.5, description: "Happiness" },
 
     "Strength": { name: "Strength", maxXp: 100, heroxp: 40, effect: 0.05, description: "Military Pay" },
@@ -196,7 +196,7 @@ const skillBaseData = {
     "Time Warping": { name: "Time Warping", maxXp: 100, heroxp: 82, effect: 0.01, description: "Gamespeed" },
     "Astral Body": { name: "Astral Body", maxXp: 100, heroxp: 100, effect: 0.0035, description: "Longer lifespan" },
     "Temporal Dimension": { name: "Temporal Dimension", maxXp: 100, heroxp: 115, effect: 0.006, description: "Gamespeed" },
-    "All Seeing Eye": { name: "All Seeing Eye", maxXp: 100, heroxp: 120, effect: 0.007, description: "T.A.A Pay" },
+    "All Seeing Eye": { name: "All Seeing Eye", maxXp: 100, heroxp: 120, effect: 0.004, description: "T.A.A Pay" },
     "Brainwashing": { name: "Brainwashing", maxXp: 100, heroxp: 145, effect: -0.01, description: "Reduced Expenses" },
 
     "Dark Influence": { name: "Dark Influence", maxXp: 100, heroxp: 155, effect: 0.01, description: "All XP" },
@@ -220,7 +220,7 @@ const skillBaseData = {
 
     "Cosmic Longevity": { name: "Cosmic Longevity", maxXp: 100, heroxp: 266, effect: 0.0015, description: "Longer Lifespan" },
     "Cosmic Recollection": { name: "Cosmic Recollection", maxXp: 100, heroxp: 272, effect: 0.00065, description: "Max Lvl Multiplier" },
-    "Essence Collector": { name: "Essence Collector", maxXp: 100, heroxp: 288, effect: 0.1, description: "Essence Gain" },
+    "Essence Collector": { name: "Essence Collector", maxXp: 100, heroxp: 288, effect: 0.05, description: "Essence Gain" },
     "Galactic Command": { name: "Galactic Command", maxXp: 100, heroxp: 290, effect: -0.01, description: "Reduced Expenses" },
 
     "Yin Yang": { name: "Yin Yang", maxXp: 100, heroxp: 290, effect: 0.050, description: "Essence + Evil Gain" },
